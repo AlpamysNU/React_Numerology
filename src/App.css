@@ -36,3 +36,47 @@
     transform: rotate(360deg);
   }
 }
+
+
+.pythagoras-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+}
+
+.square-table {
+  width: 60%;
+  border: 1px solid #ddd;
+}
+
+.square-table table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.square-table th, .square-table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: center;
+}
+
+.additional-parameters {
+  background-color: #FFD700; /* Ярко-желтый цвет фона */
+  color: black; /* Черный шрифт */
+  width: 100%;
+  margin-top: 20px;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.additional-parameters ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.additional-parameters li {
+  padding: 10px 0;
+  font-weight: bold;
+  text-align: center;
+}
