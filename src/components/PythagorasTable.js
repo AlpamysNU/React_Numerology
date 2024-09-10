@@ -109,7 +109,7 @@ function PythagorasTable({ matrix }) {
     <div className="pythagoras-container">
       {/* Таблица Пифагора */}
       <div className="square-table">
-        <h2>Квадрат Пифагора</h2>
+        {/* <h2>Квадрат Пифагора</h2> */}
         <table>
           <thead>
             <tr>
