@@ -1,0 +1,142 @@
+/* styles.css */
+.container {
+  text-align: center;
+  padding: 30px;
+  background-color: #f4f4f9;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  width: 90%;
+  max-width: 600px;
+  margin: 50px auto;
+}
+
+h1 {
+  color: #333;
+}
+
+form {
+  margin-bottom: 30px;
+}
+
+input {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin-right: 10px;
+  width: 200px;
+}
+
+button {
+  padding: 10px 15px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #218838;
+}
+
+.result-section {
+  margin: 20px 0;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.square-table {
+  margin-top: 30px;
+}
+
+.square-table table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.square-table th, .square-table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: center;
+}
+
+.square-table th {
+  background-color: #f4f4f4;
+}
+
+.square-table td {
+  background-color: #fff;
+  font-size: 18px;
+}
+.square-table td {
+  background-color: #fff;
+  font-size: 18px;
+  color: #555; /* Цвет для текста, включая "Пусто" */
+}
+
+.square-table {
+  margin-top: 20px;
+  width: 100%;
+}
+
+.square-table table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.square-table th, .square-table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: center;
+  background-color: #fff;
+}
+
+.square-table th {
+  background-color: #f4f4f4;
+  font-weight: bold;
+}
+
+.square-table td {
+  font-size: 18px;
+  color: #333;
+}
+
+
+
+
+
+
+
+
+.square-table {
+  margin-top: 20px;
+  width: 100%;
+}
+
+.square-table table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.square-table th, .square-table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: center;
+  background-color: #fff;
+  font-size: 18px;
+}
+
+.square-table th {
+  background-color: #f4f4f4;
+  font-weight: bold;
+}
+
+.square-table td {
+  color: #333;
+}
+
